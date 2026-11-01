@@ -5,9 +5,9 @@
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-Especialista en Soporte de TI (Help Desk), con formación en sistemas operativos Windows y Linux, fundamentos de redes y atención de incidencias técnicas.
+Hi! I'm an IT Support Specialist (Help Desk). I'm interested in technology, problem-solving, and continuous learning.
 
-Cuento con conocimientos en gestión de tickets y documentación técnica, así como capacidad de análisis, resolución de problemas y orientación al usuario.
+I have basic knowledge of Windows, Linux, networking, and IT support fundamentals. I enjoy learning new tools, improving my skills, and finding solutions that help users.
 
 
 
